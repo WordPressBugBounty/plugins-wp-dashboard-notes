@@ -1,8 +1,8 @@
 === WP Dashboard Notes ===
 Contributors: sormano
-Tags: note, notes, dashboard notes, wordpress notes, admin note, private note, notification, collaboration, workflow, to do list, note list, note widget
+Tags: note, notes, dashboard notes, admin note, to do list
 Requires at least: 4.0
-Tested up to: 6.4
+Tested up to: 7.1
 Stable tag: 1.0.13
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
